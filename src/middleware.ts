@@ -1,4 +1,5 @@
-import { convexAuthNextjsMiddleware, 
+import { 
+    convexAuthNextjsMiddleware, 
     createRouteMatcher, 
     isAuthenticatedNextjs,
     nextjsMiddlewareRedirect,
